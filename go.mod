@@ -54,4 +54,5 @@ replace (
 	k8s.io/apiserver => k8s.io/apiserver v0.16.4
 	k8s.io/client-go => k8s.io/client-go v0.16.4
 	k8s.io/code-generator => k8s.io/code-generator v0.16.4
+	knative.dev/eventing => github.com/mvinkler/knative-eventing v0.15.0-mod
 )
